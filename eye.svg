@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+   <circle stroke="black" stroke-width="20" fill="none" cx="256" cy="256" r="200" />
+   <g>
+    <polygon points="100 256 256 150 412 256 256 362" stroke="black" fill="none" stroke-width="20"/>
+   <polygon points="200 256 256 160 312 256 256 352" fill="crimson" stroke="black" stroke-width="20"/>
+       <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0 256 265"
+      to="360 256 256"
+      dur="10s"
+      repeatCount="indefinite" />
+   </g>
+   
+</svg>
